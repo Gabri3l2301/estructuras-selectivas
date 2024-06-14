@@ -13,7 +13,7 @@ int main (){
 	if (promedio >= 70){
 		cout << "Su promedio es de: " << promedio << ", usted aprobo";
 	}else{
-				cout << "Su promedio es de: " << promedio << ", usted desaprobo";
+		cout << "Su promedio es de: " << promedio << ", usted desaprobo";
 	}
 	return 0;
 }
